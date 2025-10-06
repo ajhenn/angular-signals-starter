@@ -1,3 +1,8 @@
+# Angular build artifacts
+dist/
+.angular/
+.angular-cache/
+
 # Logs
 logs
 *.log
@@ -124,6 +129,9 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+.vscode/
+.idea/
+.DS_Store
 
 # yarn v3
 .pnp.*
